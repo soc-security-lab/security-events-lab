@@ -1,1 +1,2 @@
 Wazuh GitHub test file 
+file is creating testing purpose 
