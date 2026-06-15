@@ -1,2 +1,4 @@
-Wazuh GitHub test file 
-file is creating testing purpose 
+This is a test file for Wazuh FIM monitoring.
+File creation, modification, and deletion are being tested.
+If this content changes, Wazuh should generate an alert.
+This file is used to verify security monitoring logs.
